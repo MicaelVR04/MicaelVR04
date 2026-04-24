@@ -33,5 +33,5 @@ I'm currently focused on becoming a stronger developer by writing clean code, im
 ## Contact
 
 - GitHub: https://github.com/MicaelVR04
-- https://www.linkedin.com/in/micael-velez-media/
+- LinkedIn https://www.linkedin.com/in/micael-velez-media/
 
